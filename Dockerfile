@@ -1,4 +1,4 @@
-ARG  BUN_IMAGE=oven/bun:1.1.29
+ARG  BUN_IMAGE=oven/bun:1.2.9
 
 FROM ${BUN_IMAGE}
 
